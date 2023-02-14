@@ -1,0 +1,15 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicios.js",
+  "scripts": {
+    "start": "node ejercicios.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
